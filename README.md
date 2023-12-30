@@ -38,7 +38,7 @@ To run this project locally, follow these steps:
    ```bash'
    npm start
 5. **Open in Browser:**
-   Open your browser and go to http://localhost:3000 to access the Gmail-Clone application.
+   Open your browser and go to http://localhost:8000 to access the Gmail-Clone application.
 
 ## How to Contribute 🚀
 
