@@ -27,7 +27,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/gmail-clone.git
+   git clone https://github.com/sheelganvir/gmail-clone.git
    cd gmail-clone
 2. **Install Dependencies:**
    ```bash
@@ -45,7 +45,7 @@ To run this project locally, follow these steps:
 1. Fork this repository.
 2. Clone the forked repository.
    ```bash
-   git clone https://github.com/your-username/gmail-clone
+   git clone https://github.com/sheelganvir/gmail-clone
 3. Navigate to the project directory.
    ```bash
    cd gmail-clone
