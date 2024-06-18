@@ -1,12 +1,12 @@
 {
     "version": 2,
-    "builds": [
+    "functions": [
       {
         "src": "index.js",
-        "use": "@now/node"
+        "use": "@vercel/node"
       }
     ],
-    "routes": [
+    "redirects": [
       {
         "src": "/(.*)",
        "dest": "index.js"
